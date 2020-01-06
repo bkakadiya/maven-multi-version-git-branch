@@ -1,0 +1,10 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>child1</artifactId>
+  <parent>
+    <groupId>com.mycompany.app</groupId>
+    <artifactId>parent</artifactId>
+    <version>3.0.0-SNAPSHOT</version>
+  </parent>
+</project>
